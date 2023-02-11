@@ -8,7 +8,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone 
+$ git clone https://github.com/Rmariner25/fitness_club_bullseye.git
 
 # Install dependencies
 $ npm install
