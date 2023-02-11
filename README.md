@@ -1,7 +1,7 @@
 # Book Management System in ReactJs utilising local storage 
  React app utilising local storage 
 
-![Home page view](/repository/public/book_mn_home.png?raw=true "Screenshot")
+![Home page view](fitness_club_bullseye/public/book_mn_home.png?raw=true "Screenshot")
 
 ## How To Use
 
